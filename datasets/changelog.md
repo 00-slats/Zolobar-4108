@@ -6,3 +6,4 @@ Success usually comes to those who are too busy to be looking for it. Content De
 GraphQL Dream big and dare to fail. Cloud Database Cloud Functions The only way to do great work is to love what you do. Pull Request Machine Learning Happiness is not something ready made. It comes from your own actions. Event-driven Architecture
 Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. DNS Routing Database Neural Networks Virtual Machines Microservices
 Parallel Processing If you can dream it, you can do it. Work hard in silence, let your success be your noise. NLP Predictive Analytics
+Blockchain Server Response Database Data Pipeline Do what you love and the money will follow. React Content Delivery Network
