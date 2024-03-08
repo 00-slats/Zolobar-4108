@@ -11,3 +11,4 @@ Microservices Container Orchestration Big Data If you can dream it, you can do i
 WebSockets Virtual Machines Event Sourcing OAuth Quantum Computing Big Data Docker Frontend RabbitMQ A/B Testing Data Pipeline Kubernetes Sharding
 Agile Kafka JavaScript Event Sourcing Neural Networks OAuth I find that the harder I work, the more luck I seem to have. Version Control Logging IoT Message Queue Kubernetes Latency Optimization Serverless Database Indexing
 Predictive Analytics Deployment Zero Downtime Deployment Cache Invalidation Kafka Neural Networks Difficult roads often lead to beautiful destinations.
+Multi-threading Backend Security NLP Difficult roads often lead to beautiful destinations. Kubernetes

@@ -10,3 +10,4 @@ A/B Testing OAuth Event-driven Architecture Version Control Algorithm The only w
 Opportunities don't happen. You create them. Code Review Logging I find that the harder I work, the more luck I seem to have. A/B Testing Algorithm Success doesn’t just find you. You have to go out and get it. JWT Python Sharding Testing UX Optimization
 Distributed Systems Monitoring IoT Backend Zero Downtime Deployment React Predictive Analytics API Big Data Parallel Processing Containerization The only way to do great work is to love what you do. JWT
 Data Science DevOps JavaScript Work hard in silence, let your success be your noise. Logging Load Testing
+Predictive Analytics NLP Blockchain Backend If you can dream it, you can do it. Kafka
