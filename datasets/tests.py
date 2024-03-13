@@ -9,3 +9,4 @@ Work hard in silence, let your success be your noise. Happiness is not something
 Cache Invalidation Neural Networks Logging Quantum Computing Data Pipeline Dream big and dare to fail. Success is not in what you have, but who you are. Cloud Stay hungry, stay foolish. Load Testing Frontend Latency Optimization Container Orchestration
 CI/CD Backend DevOps Optimization Data Science Logging
 Agile Stay hungry, stay foolish. Blockchain WebSockets Don't be afraid to give up the good to go for the great. Latency Optimization Testing Python GraphQL
+Automation Logging Stay hungry, stay foolish. Scalability IoT Data Pipeline Opportunities don't happen. You create them. Containerization To be the best, you must be able to handle the worst. A/B Testing
