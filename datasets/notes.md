@@ -7,3 +7,4 @@ Happiness is not something ready made. It comes from your own actions. Lambda Fu
 A/B Testing I find that the harder I work, the more luck I seem to have. Testing Cloud Do what you love and the money will follow. JavaScript Latency Optimization React Simplicity is the ultimate sophistication. Data Pipeline Data Science
 Multi-threading Machine Learning Event Sourcing Microservices Zero Downtime Deployment Quantum Computing Pull Request Kubernetes JavaScript Simplicity is the ultimate sophistication.
 WebSockets I find that the harder I work, the more luck I seem to have. API Gateway Difficult roads often lead to beautiful destinations. Deployment Cache Invalidation
+Security Kafka Optimization Scalability Big Data I find that the harder I work, the more luck I seem to have. Distributed Systems Multi-threading Agile Success usually comes to those who are too busy to be looking for it. Kubernetes Load Balancing Serverless CI/CD
