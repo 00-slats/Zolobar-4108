@@ -14,3 +14,4 @@ Artificial Intelligence Edge Computing Don't be afraid to give up the good to go
 Cloud Deployment Distributed Systems Edge Computing Optimization
 Event Sourcing Automation Happiness is not something ready made. It comes from your own actions. Firewalls API Content Delivery Network Container Orchestration Deployment Frontend React WebSockets
 Firewalls Virtual Machines DevOps Agile Load Testing Message Queue Python Zero Downtime Deployment Dream big and dare to fail. Blockchain JWT Frontend Version Control Deployment API Gateway
+Quantum Computing Pull Request Replica Set WebSockets Edge Computing If you can dream it, you can do it. Cloud Logging Serverless Success is how high you bounce when you hit bottom. Load Testing Great things never come from comfort zones. Framework Multi-threading
