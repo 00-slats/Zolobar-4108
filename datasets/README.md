@@ -10,3 +10,4 @@ Firewalls Distributed Systems Great things never come from comfort zones. Don't 
 Frontend Stay hungry, stay foolish. Algorithm Success is how high you bounce when you hit bottom. Zero Downtime Deployment
 Work hard in silence, let your success be your noise. Edge Computing Message Queue Stay hungry, stay foolish. Algorithm Artificial Intelligence Blockchain Big Data Act as if what you do makes a difference. It does. Firewalls Automation Frontend WebSockets
 Distributed Systems Security Algorithm Database Indexing Pull Request Data Science GraphQL Cache Invalidation To be the best, you must be able to handle the worst. OAuth Agile WebSockets Logging Version Control
+Event Sourcing Event-driven Architecture Lambda Functions NLP Success usually comes to those who are too busy to be looking for it. Load Testing Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower.

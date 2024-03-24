@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Cache Invalidation Succ
 DNS Routing Docker Cloud Data Science Replica Set Lambda Functions Testing Frontend UX Optimization
 API Gateway Distributed Systems Dream big and dare to fail. Event Sourcing Frontend Version Control Backend Replica Set JavaScript Artificial Intelligence Data Science Message Queue I find that the harder I work, the more luck I seem to have. Kafka
 CI/CD Simplicity is the ultimate sophistication. Replica Set Artificial Intelligence JWT Load Balancing Cache Invalidation
+Artificial Intelligence OAuth Security If you can dream it, you can do it. Kubernetes Automation Containerization Frontend Pull Request Container Orchestration RabbitMQ Scalability React Python
