@@ -8,3 +8,4 @@ Containerization Predictive Analytics Code Review Backend Work hard in silence, 
 Cloud Functions Scalability OAuth A/B Testing Artificial Intelligence Parallel Processing
 The only way to do great work is to love what you do. Pull Request Parallel Processing Kafka NLP Zero Downtime Deployment Docker Backend Kubernetes GraphQL
 Microservices Container Orchestration Big Data If you can dream it, you can do it. DNS Routing DevOps Security Firewalls Message Queue Deployment Parallel Processing Latency Optimization Work hard in silence, let your success be your noise.
+WebSockets Virtual Machines Event Sourcing OAuth Quantum Computing Big Data Docker Frontend RabbitMQ A/B Testing Data Pipeline Kubernetes Sharding
