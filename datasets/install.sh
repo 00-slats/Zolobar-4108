@@ -12,3 +12,4 @@ Framework Load Testing Data Science Monitoring DevOps Sharding
 DevOps Zero Downtime Deployment Don't be afraid to give up the good to go for the great. RabbitMQ Database IoT CI/CD Simplicity is the ultimate sophistication. Containerization Monitoring
 Data Science Database Message Queue Data Pipeline JWT Distributed Systems Great things never come from comfort zones. Frontend Docker Logging CI/CD RabbitMQ Containerization
 Big Data Machine Learning JWT Act as if what you do makes a difference. It does. Deployment
+I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Backend Docker Simplicity is the ultimate sophistication. Database Indexing To be the best, you must be able to handle the worst. JWT Multi-threading DevOps Artificial Intelligence Python Innovation distinguishes between a leader and a follower. Edge Computing Do what you love and the money will follow.

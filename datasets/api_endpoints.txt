@@ -17,3 +17,4 @@ Difficult roads often lead to beautiful destinations. Latency Optimization Innov
 Pull Request Code Review DNS Routing Load Balancing Parallel Processing The only way to do great work is to love what you do. Predictive Analytics Security
 DevOps A/B Testing JWT Kafka API Gateway JavaScript Success usually comes to those who are too busy to be looking for it.
 Containerization Parallel Processing DevOps JWT Great things never come from comfort zones. Python
+Dream big and dare to fail. Blockchain Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. GraphQL Predictive Analytics
