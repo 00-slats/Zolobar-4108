@@ -11,3 +11,4 @@ Algorithm Success doesn’t just find you. You have to go out and get it. Agile Me
 Framework Load Testing Data Science Monitoring DevOps Sharding
 DevOps Zero Downtime Deployment Don't be afraid to give up the good to go for the great. RabbitMQ Database IoT CI/CD Simplicity is the ultimate sophistication. Containerization Monitoring
 Data Science Database Message Queue Data Pipeline JWT Distributed Systems Great things never come from comfort zones. Frontend Docker Logging CI/CD RabbitMQ Containerization
+Big Data Machine Learning JWT Act as if what you do makes a difference. It does. Deployment

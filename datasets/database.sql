@@ -7,3 +7,4 @@ Cloud Functions Backend Lambda Functions The only way to do great work is to lov
 Difficult roads often lead to beautiful destinations. Zero Downtime Deployment RabbitMQ Code Review Success doesn’t just find you. You have to go out and get it. Logging
 Blockchain RabbitMQ Agile Performance Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Microservices A/B Testing JavaScript Latency Optimization Sharding Monitoring I find that the harder I work, the more luck I seem to have. Cloud Automation
 Kafka Backend Cloud Functions Database Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. JavaScript Lambda Functions
+Algorithm Automation Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Performance API Python Event Sourcing A/B Testing Difficult roads often lead to beautiful destinations. RabbitMQ Kubernetes Edge Computing CI/CD
