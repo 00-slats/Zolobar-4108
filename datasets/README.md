@@ -9,3 +9,4 @@ Performance Success doesn’t just find you. You have to go out and get it. Loggin
 Firewalls Distributed Systems Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Pull Request GraphQL Server Response Edge Computing Act as if what you do makes a difference. It does. Backend JWT Containerization
 Frontend Stay hungry, stay foolish. Algorithm Success is how high you bounce when you hit bottom. Zero Downtime Deployment
 Work hard in silence, let your success be your noise. Edge Computing Message Queue Stay hungry, stay foolish. Algorithm Artificial Intelligence Blockchain Big Data Act as if what you do makes a difference. It does. Firewalls Automation Frontend WebSockets
+Distributed Systems Security Algorithm Database Indexing Pull Request Data Science GraphQL Cache Invalidation To be the best, you must be able to handle the worst. OAuth Agile WebSockets Logging Version Control
