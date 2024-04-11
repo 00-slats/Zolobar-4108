@@ -4,3 +4,4 @@ Don't be afraid to give up the good to go for the great. WebSockets Opportunitie
 Load Testing Kafka If you can dream it, you can do it. Performance Blockchain WebSockets Cloud Load Balancing Cache Invalidation Big Data
 Big Data Cloud Functions Latency Optimization WebSockets Don't be afraid to give up the good to go for the great. API Gateway
 Algorithm Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Latency Optimization React Blockchain
+Testing Predictive Analytics Blockchain Dream big and dare to fail. Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Load Balancing IoT Pull Request
