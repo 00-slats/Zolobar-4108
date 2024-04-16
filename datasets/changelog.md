@@ -4,3 +4,4 @@ Kubernetes React Success is not in what you have, but who you are. Success doesn
 Optimization Testing Latency Optimization Work hard in silence, let your success be your noise. React Algorithm Simplicity is the ultimate sophistication. Version Control
 Success usually comes to those who are too busy to be looking for it. Content Delivery Network Blockchain Optimization Predictive Analytics If you can dream it, you can do it.
 GraphQL Dream big and dare to fail. Cloud Database Cloud Functions The only way to do great work is to love what you do. Pull Request Machine Learning Happiness is not something ready made. It comes from your own actions. Event-driven Architecture
+Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. DNS Routing Database Neural Networks Virtual Machines Microservices
