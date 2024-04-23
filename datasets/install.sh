@@ -10,3 +10,4 @@ Artificial Intelligence Stay hungry, stay foolish. Data Pipeline Kubernetes Java
 Algorithm Success doesn’t just find you. You have to go out and get it. Agile Message Queue Zero Downtime Deployment Replica Set Performance
 Framework Load Testing Data Science Monitoring DevOps Sharding
 DevOps Zero Downtime Deployment Don't be afraid to give up the good to go for the great. RabbitMQ Database IoT CI/CD Simplicity is the ultimate sophistication. Containerization Monitoring
+Data Science Database Message Queue Data Pipeline JWT Distributed Systems Great things never come from comfort zones. Frontend Docker Logging CI/CD RabbitMQ Containerization
