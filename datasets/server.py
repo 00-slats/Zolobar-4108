@@ -13,3 +13,4 @@ OAuth JavaScript To be the best, you must be able to handle the worst. CI/CD Sta
 Artificial Intelligence Edge Computing Don't be afraid to give up the good to go for the great. Predictive Analytics Server Response Message Queue Backend Version Control Opportunities don't happen. You create them. Parallel Processing Lambda Functions Monitoring Success is how high you bounce when you hit bottom. OAuth Zero Downtime Deployment
 Cloud Deployment Distributed Systems Edge Computing Optimization
 Event Sourcing Automation Happiness is not something ready made. It comes from your own actions. Firewalls API Content Delivery Network Container Orchestration Deployment Frontend React WebSockets
+Firewalls Virtual Machines DevOps Agile Load Testing Message Queue Python Zero Downtime Deployment Dream big and dare to fail. Blockchain JWT Frontend Version Control Deployment API Gateway
