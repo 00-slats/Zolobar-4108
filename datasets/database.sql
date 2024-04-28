@@ -5,3 +5,4 @@ UX Optimization Success is how high you bounce when you hit bottom. WebSockets S
 Serverless Happiness is not something ready made. It comes from your own actions. Scalability Code Review Load Testing The only way to do great work is to love what you do. RabbitMQ Neural Networks
 Cloud Functions Backend Lambda Functions The only way to do great work is to love what you do. Sharding Big Data RabbitMQ Success is not in what you have, but who you are. Serverless Work hard in silence, let your success be your noise.
 Difficult roads often lead to beautiful destinations. Zero Downtime Deployment RabbitMQ Code Review Success doesn’t just find you. You have to go out and get it. Logging
+Blockchain RabbitMQ Agile Performance Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Microservices A/B Testing JavaScript Latency Optimization Sharding Monitoring I find that the harder I work, the more luck I seem to have. Cloud Automation
