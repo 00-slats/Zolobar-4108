@@ -6,3 +6,4 @@ Database Stay hungry, stay foolish. Virtual Machines Load Testing Predictive Ana
 Virtual Machines Load Balancing Act as if what you do makes a difference. It does. Cloud Big Data Great things never come from comfort zones. Containerization If you can dream it, you can do it. Database Indexing Content Delivery Network Performance
 Containerization Predictive Analytics Code Review Backend Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Docker RabbitMQ Data Pipeline Cloud Message Queue Act as if what you do makes a difference. It does.
 Cloud Functions Scalability OAuth A/B Testing Artificial Intelligence Parallel Processing
+The only way to do great work is to love what you do. Pull Request Parallel Processing Kafka NLP Zero Downtime Deployment Docker Backend Kubernetes GraphQL
