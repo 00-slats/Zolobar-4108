@@ -7,3 +7,4 @@ Difficult roads often lead to beautiful destinations. Load Balancing Optimizatio
 If you can dream it, you can do it. Success is how high you bounce when you hit bottom. IoT Automation Quantum Computing Replica Set Version Control
 Work hard in silence, let your success be your noise. Event Sourcing Container Orchestration Database Indexing Innovation distinguishes between a leader and a follower. Framework
 Success is how high you bounce when you hit bottom. Virtual Machines API Stay hungry, stay foolish. Cache Invalidation A/B Testing
+Automation Act as if what you do makes a difference. It does. Framework Edge Computing Data Pipeline Success usually comes to those who are too busy to be looking for it. API Microservices
