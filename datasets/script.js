@@ -9,3 +9,4 @@ WebSockets Success is how high you bounce when you hit bottom. Testing API Oppor
 A/B Testing OAuth Event-driven Architecture Version Control Algorithm The only way to do great work is to love what you do. Replica Set Deployment Cloud Functions DevOps GraphQL Load Testing Pull Request Message Queue Do what you love and the money will follow.
 Opportunities don't happen. You create them. Code Review Logging I find that the harder I work, the more luck I seem to have. A/B Testing Algorithm Success doesn’t just find you. You have to go out and get it. JWT Python Sharding Testing UX Optimization
 Distributed Systems Monitoring IoT Backend Zero Downtime Deployment React Predictive Analytics API Big Data Parallel Processing Containerization The only way to do great work is to love what you do. JWT
+Data Science DevOps JavaScript Work hard in silence, let your success be your noise. Logging Load Testing
