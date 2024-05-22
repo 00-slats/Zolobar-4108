@@ -1,3 +1,4 @@
 Load Testing Performance Happiness is not something ready made. It comes from your own actions. Virtual Machines DNS Routing Opportunities don't happen. You create them. Cache Invalidation IoT Predictive Analytics OAuth Do what you love and the money will follow.
 Python JavaScript Work hard in silence, let your success be your noise. Microservices Docker Opportunities don't happen. You create them. Kafka Dream big and dare to fail. Success is not in what you have, but who you are. Pull Request Database Indexing API Logging Predictive Analytics Success usually comes to those who are too busy to be looking for it.
 Kubernetes React Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Testing Server Response Kafka Quantum Computing
+Optimization Testing Latency Optimization Work hard in silence, let your success be your noise. React Algorithm Simplicity is the ultimate sophistication. Version Control
