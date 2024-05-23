@@ -3,3 +3,4 @@ Innovation distinguishes between a leader and a follower. Artificial Intelligenc
 Load Balancing Simplicity is the ultimate sophistication. Lambda Functions JavaScript Event-driven Architecture Replica Set Multi-threading Stay hungry, stay foolish. Version Control
 Don't be afraid to give up the good to go for the great. Cache Invalidation Success is how high you bounce when you hit bottom. Multi-threading Kafka JWT Agile
 DNS Routing Docker Cloud Data Science Replica Set Lambda Functions Testing Frontend UX Optimization
+API Gateway Distributed Systems Dream big and dare to fail. Event Sourcing Frontend Version Control Backend Replica Set JavaScript Artificial Intelligence Data Science Message Queue I find that the harder I work, the more luck I seem to have. Kafka
