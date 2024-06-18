@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Performan
 Data Pipeline Stay hungry, stay foolish. Automation Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
 Difficult roads often lead to beautiful destinations. Load Balancing Optimization Innovation distinguishes between a leader and a follower. Automation Cloud Functions Predictive Analytics
 If you can dream it, you can do it. Success is how high you bounce when you hit bottom. IoT Automation Quantum Computing Replica Set Version Control
+Work hard in silence, let your success be your noise. Event Sourcing Container Orchestration Database Indexing Innovation distinguishes between a leader and a follower. Framework

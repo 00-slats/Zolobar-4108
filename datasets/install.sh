@@ -8,3 +8,4 @@ Great things never come from comfort zones. Edge Computing Automation Quantum Co
 Artificial Intelligence Cache Invalidation Firewalls Happiness is not something ready made. It comes from your own actions. Neural Networks Quantum Computing Great things never come from comfort zones. API Gateway Logging Simplicity is the ultimate sophistication. RabbitMQ Predictive Analytics Backend Docker
 Artificial Intelligence Stay hungry, stay foolish. Data Pipeline Kubernetes JavaScript API Act as if what you do makes a difference. It does.
 Algorithm Success doesn’t just find you. You have to go out and get it. Agile Message Queue Zero Downtime Deployment Replica Set Performance
+Framework Load Testing Data Science Monitoring DevOps Sharding

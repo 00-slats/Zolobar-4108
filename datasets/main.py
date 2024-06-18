@@ -8,3 +8,4 @@ Backend Dream big and dare to fail. Data Pipeline WebSockets Algorithm Kafka
 Pull Request Event-driven Architecture Framework Deployment Server Response
 CI/CD Automation Data Science Microservices Data Pipeline DNS Routing
 Framework Python Success doesn’t just find you. You have to go out and get it. Security Event Sourcing Cache Invalidation Success usually comes to those who are too busy to be looking for it. Big Data Version Control Microservices Cloud Functions Neural Networks UX Optimization Do what you love and the money will follow. Logging
+Virtual Machines Latency Optimization UX Optimization Sharding Work hard in silence, let your success be your noise. Load Testing Simplicity is the ultimate sophistication. Firewalls Success is how high you bounce when you hit bottom.
