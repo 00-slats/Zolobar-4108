@@ -7,3 +7,4 @@ Difficult roads often lead to beautiful destinations. GraphQL Sharding Blockchai
 I find that the harder I work, the more luck I seem to have. DevOps Frontend Load Balancing API Gateway
 WebSockets Success is how high you bounce when you hit bottom. Testing API Opportunities don't happen. You create them. Stay hungry, stay foolish. Cache Invalidation Event Sourcing CI/CD Performance Lambda Functions Code Review Event-driven Architecture
 A/B Testing OAuth Event-driven Architecture Version Control Algorithm The only way to do great work is to love what you do. Replica Set Deployment Cloud Functions DevOps GraphQL Load Testing Pull Request Message Queue Do what you love and the money will follow.
+Opportunities don't happen. You create them. Code Review Logging I find that the harder I work, the more luck I seem to have. A/B Testing Algorithm Success doesn’t just find you. You have to go out and get it. JWT Python Sharding Testing UX Optimization

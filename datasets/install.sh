@@ -7,3 +7,4 @@ Testing Lambda Functions Dream big and dare to fail. A/B Testing Server Response
 Great things never come from comfort zones. Edge Computing Automation Quantum Computing Artificial Intelligence Replica Set Kubernetes I find that the harder I work, the more luck I seem to have. Machine Learning
 Artificial Intelligence Cache Invalidation Firewalls Happiness is not something ready made. It comes from your own actions. Neural Networks Quantum Computing Great things never come from comfort zones. API Gateway Logging Simplicity is the ultimate sophistication. RabbitMQ Predictive Analytics Backend Docker
 Artificial Intelligence Stay hungry, stay foolish. Data Pipeline Kubernetes JavaScript API Act as if what you do makes a difference. It does.
+Algorithm Success doesn’t just find you. You have to go out and get it. Agile Message Queue Zero Downtime Deployment Replica Set Performance
