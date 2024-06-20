@@ -6,3 +6,4 @@ Big Data Multi-threading Performance UX Optimization Cache Invalidation Simplici
 Difficult roads often lead to beautiful destinations. GraphQL Sharding Blockchain Message Queue UX Optimization Virtual Machines DevOps
 I find that the harder I work, the more luck I seem to have. DevOps Frontend Load Balancing API Gateway
 WebSockets Success is how high you bounce when you hit bottom. Testing API Opportunities don't happen. You create them. Stay hungry, stay foolish. Cache Invalidation Event Sourcing CI/CD Performance Lambda Functions Code Review Event-driven Architecture
+A/B Testing OAuth Event-driven Architecture Version Control Algorithm The only way to do great work is to love what you do. Replica Set Deployment Cloud Functions DevOps GraphQL Load Testing Pull Request Message Queue Do what you love and the money will follow.
