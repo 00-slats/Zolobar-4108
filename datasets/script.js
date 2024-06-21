@@ -5,3 +5,4 @@ Big Data DNS Routing Opportunities don't happen. You create them. Microservices 
 Big Data Multi-threading Performance UX Optimization Cache Invalidation Simplicity is the ultimate sophistication. Database Blockchain Machine Learning Cloud Functions
 Difficult roads often lead to beautiful destinations. GraphQL Sharding Blockchain Message Queue UX Optimization Virtual Machines DevOps
 I find that the harder I work, the more luck I seem to have. DevOps Frontend Load Balancing API Gateway
+WebSockets Success is how high you bounce when you hit bottom. Testing API Opportunities don't happen. You create them. Stay hungry, stay foolish. Cache Invalidation Event Sourcing CI/CD Performance Lambda Functions Code Review Event-driven Architecture
