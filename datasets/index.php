@@ -4,3 +4,4 @@ Frontend Backend UX Optimization Cloud Act as if what you do makes a difference.
 OAuth Do what you love and the money will follow. RabbitMQ Logging Simplicity is the ultimate sophistication. Load Testing Database Kafka
 Database Stay hungry, stay foolish. Virtual Machines Load Testing Predictive Analytics
 Virtual Machines Load Balancing Act as if what you do makes a difference. It does. Cloud Big Data Great things never come from comfort zones. Containerization If you can dream it, you can do it. Database Indexing Content Delivery Network Performance
+Containerization Predictive Analytics Code Review Backend Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Docker RabbitMQ Data Pipeline Cloud Message Queue Act as if what you do makes a difference. It does.

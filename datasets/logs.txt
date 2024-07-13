@@ -7,3 +7,4 @@ Optimization Automation Artificial Intelligence To be the best, you must be able
 Opportunities don't happen. You create them. Microservices Quantum Computing Frontend Sharding OAuth DNS Routing The only way to do great work is to love what you do.
 Data Science Microservices DNS Routing Event-driven Architecture Database Deployment Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Content Delivery Network Success doesn’t just find you. You have to go out and get it. Cloud Functions Backend Neural Networks API Gateway Difficult roads often lead to beautiful destinations.
 Backend JWT Python Framework Data Science Blockchain DNS Routing Dream big and dare to fail. Microservices
+Success is not in what you have, but who you are. Frontend Success doesn’t just find you. You have to go out and get it. Algorithm Testing If you can dream it, you can do it. Python UX Optimization Parallel Processing Data Science
