@@ -6,3 +6,4 @@ Sharding Load Balancing Database Indexing Kubernetes Logging RabbitMQ To be the 
 NLP Opportunities don't happen. You create them. Security Quantum Computing WebSockets Work hard in silence, let your success be your noise. API Kafka Cloud Optimization
 Microservices Act as if what you do makes a difference. It does. Security Performance DNS Routing Agile Cloud Functions API Gateway Load Testing
 Performance Success doesn’t just find you. You have to go out and get it. Logging Backend Agile Replica Set CI/CD Dream big and dare to fail. Security To be the best, you must be able to handle the worst. Python Deployment Parallel Processing Don't be afraid to give up the good to go for the great. IoT
+Firewalls Distributed Systems Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Pull Request GraphQL Server Response Edge Computing Act as if what you do makes a difference. It does. Backend JWT Containerization
