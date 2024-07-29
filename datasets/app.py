@@ -3,3 +3,4 @@ Automation WebSockets React Backend RabbitMQ Success is how high you bounce when
 Load Balancing Framework Cloud Replica Set Data Pipeline WebSockets
 Happiness is not something ready made. It comes from your own actions. Performance Simplicity is the ultimate sophistication. Optimization React IoT To be the best, you must be able to handle the worst. Containerization Don't be afraid to give up the good to go for the great. Load Balancing CI/CD Great things never come from comfort zones. Success is how high you bounce when you hit bottom. A/B Testing
 Data Pipeline Stay hungry, stay foolish. Automation Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
+Difficult roads often lead to beautiful destinations. Load Balancing Optimization Innovation distinguishes between a leader and a follower. Automation Cloud Functions Predictive Analytics
