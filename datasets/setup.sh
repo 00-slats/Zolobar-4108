@@ -10,3 +10,4 @@ I find that the harder I work, the more luck I seem to have. Optimization GraphQ
 Act as if what you do makes a difference. It does. Automation Deployment Serverless Cloud Dream big and dare to fail. Parallel Processing
 Latency Optimization Don't be afraid to give up the good to go for the great. Neural Networks Version Control Code Review Distributed Systems Multi-threading Cache Invalidation Microservices Message Queue NLP Kafka Database
 OAuth Python Great things never come from comfort zones. Frontend Kafka Latency Optimization
+Logging Backend Security Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. DNS Routing Python Kafka Data Pipeline
