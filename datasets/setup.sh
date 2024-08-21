@@ -8,3 +8,4 @@ Big Data Data Science Stay hungry, stay foolish. Microservices Success doesn’t j
 Do what you love and the money will follow. GraphQL Predictive Analytics API Blockchain Firewalls Success usually comes to those who are too busy to be looking for it. RabbitMQ Difficult roads often lead to beautiful destinations. Testing Monitoring The only way to do great work is to love what you do. JWT Logging
 I find that the harder I work, the more luck I seem to have. Optimization GraphQL Load Testing API Backend
 Act as if what you do makes a difference. It does. Automation Deployment Serverless Cloud Dream big and dare to fail. Parallel Processing
+Latency Optimization Don't be afraid to give up the good to go for the great. Neural Networks Version Control Code Review Distributed Systems Multi-threading Cache Invalidation Microservices Message Queue NLP Kafka Database

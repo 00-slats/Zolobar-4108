@@ -6,3 +6,4 @@ Success is not in what you have, but who you are. Message Queue Deployment JavaS
 DevOps Stay hungry, stay foolish. Message Queue Kubernetes Do what you love and the money will follow.
 Backend Dream big and dare to fail. Data Pipeline WebSockets Algorithm Kafka
 Pull Request Event-driven Architecture Framework Deployment Server Response
+CI/CD Automation Data Science Microservices Data Pipeline DNS Routing
