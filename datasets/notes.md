@@ -3,3 +3,4 @@ NLP GraphQL Data Science Latency Optimization Monitoring Kubernetes DevOps Code 
 DNS Routing RabbitMQ Firewalls Framework Success is how high you bounce when you hit bottom.
 The only way to do great work is to love what you do. Framework Simplicity is the ultimate sophistication. Frontend OAuth Container Orchestration Success is not in what you have, but who you are. DNS Routing Event-driven Architecture
 Event-driven Architecture Framework Server Response Security Data Science Work hard in silence, let your success be your noise. Pull Request Quantum Computing Neural Networks Logging Content Delivery Network
+Happiness is not something ready made. It comes from your own actions. Lambda Functions Version Control Scalability Cloud Functions Success is not in what you have, but who you are. DevOps Docker
