@@ -6,3 +6,4 @@ Parallel Processing Kafka Work hard in silence, let your success be your noise. 
 Framework Success doesn’t just find you. You have to go out and get it. Blockchain Kafka I find that the harder I work, the more luck I seem to have.
 JWT Frontend Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. JavaScript Optimization Distributed Systems WebSockets Database API Agile Serverless Edge Computing Data Pipeline Predictive Analytics
 Logging Backend NLP Big Data Event Sourcing Parallel Processing Kubernetes Code Review Database WebSockets Success usually comes to those who are too busy to be looking for it.
+Security Performance API Quantum Computing Predictive Analytics Automation Code Review Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Machine Learning Virtual Machines Python Kubernetes Latency Optimization
