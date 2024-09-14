@@ -5,3 +5,4 @@ Scalability Pull Request Sharding Database Event Sourcing Success usually comes 
 Parallel Processing Kafka Work hard in silence, let your success be your noise. Virtual Machines Blockchain
 Framework Success doesn’t just find you. You have to go out and get it. Blockchain Kafka I find that the harder I work, the more luck I seem to have.
 JWT Frontend Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. JavaScript Optimization Distributed Systems WebSockets Database API Agile Serverless Edge Computing Data Pipeline Predictive Analytics
+Logging Backend NLP Big Data Event Sourcing Parallel Processing Kubernetes Code Review Database WebSockets Success usually comes to those who are too busy to be looking for it.
