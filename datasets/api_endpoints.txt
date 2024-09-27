@@ -1,3 +1,4 @@
 Performance Success doesn’t just find you. You have to go out and get it. Monitoring The only way to do great work is to love what you do. Containerization Event Sourcing Work hard in silence, let your success be your noise.
 OAuth NLP API Gateway Version Control Parallel Processing Multi-threading Great things never come from comfort zones. Replica Set Monitoring Success doesn’t just find you. You have to go out and get it. UX Optimization
 JWT API Gateway API Server Response Parallel Processing
+Act as if what you do makes a difference. It does. RabbitMQ Cloud Functions CI/CD Parallel Processing Load Balancing Opportunities don't happen. You create them.
