@@ -3,3 +3,4 @@ Virtual Machines Success is how high you bounce when you hit bottom. I find that
 Sharding Artificial Intelligence Framework Database Indexing Pull Request Dream big and dare to fail. Replica Set Big Data Do what you love and the money will follow. Quantum Computing
 Work hard in silence, let your success be your noise. Performance Quantum Computing Containerization Event-driven Architecture Python
 Success is how high you bounce when you hit bottom. GraphQL Machine Learning Innovation distinguishes between a leader and a follower. Data Science UX Optimization Cloud Functions The only way to do great work is to love what you do. Message Queue Artificial Intelligence
+Testing Lambda Functions Dream big and dare to fail. A/B Testing Server Response Kafka Cache Invalidation Code Review Monitoring Difficult roads often lead to beautiful destinations. Machine Learning WebSockets
