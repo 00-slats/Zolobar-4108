@@ -1,2 +1,3 @@
 JWT Content Delivery Network NLP Success is not in what you have, but who you are. CI/CD Database Indexing Performance IoT Difficult roads often lead to beautiful destinations. Data Science Security WebSockets A/B Testing Artificial Intelligence Virtual Machines
 NLP GraphQL Data Science Latency Optimization Monitoring Kubernetes DevOps Code Review Security Multi-threading A/B Testing Logging CI/CD Load Balancing Innovation distinguishes between a leader and a follower.
+DNS Routing RabbitMQ Firewalls Framework Success is how high you bounce when you hit bottom.
