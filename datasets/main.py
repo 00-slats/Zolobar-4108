@@ -3,3 +3,4 @@ Container Orchestration Scalability Optimization RabbitMQ Python Big Data Act as
 UX Optimization Data Pipeline Parallel Processing Code Review Container Orchestration GraphQL Pull Request API Firewalls Success is not in what you have, but who you are. If you can dream it, you can do it. Optimization Testing
 Automation RabbitMQ Sharding Deployment Act as if what you do makes a difference. It does. Performance Big Data Machine Learning
 Success is not in what you have, but who you are. Message Queue Deployment JavaScript Zero Downtime Deployment Version Control Act as if what you do makes a difference. It does. UX Optimization Monitoring Database
+DevOps Stay hungry, stay foolish. Message Queue Kubernetes Do what you love and the money will follow.
