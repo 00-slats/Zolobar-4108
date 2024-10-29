@@ -3,3 +3,4 @@ Firewalls React Parallel Processing Event Sourcing Lambda Functions Load Balanci
 Machine Learning Version Control Do what you love and the money will follow. Sharding Cache Invalidation Difficult roads often lead to beautiful destinations. A/B Testing Container Orchestration CI/CD Python
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Data Pipeline NLP Algorithm WebSockets
 Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. JavaScript Virtual Machines To be the best, you must be able to handle the worst.
+Algorithm Replica Set Code Review Blockchain Event-driven Architecture To be the best, you must be able to handle the worst. NLP Don't be afraid to give up the good to go for the great.
