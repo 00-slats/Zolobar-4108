@@ -2,3 +2,4 @@ Data Pipeline Server Response Multi-threading Optimization Success is not in wha
 Agile Distributed Systems Great things never come from comfort zones. Act as if what you do makes a difference. It does. Content Delivery Network
 RabbitMQ Security Load Balancing Lambda Functions API Scalability Containerization Happiness is not something ready made. It comes from your own actions. Multi-threading Content Delivery Network Performance Latency Optimization DNS Routing
 Do what you love and the money will follow. Cloud DNS Routing DevOps If you can dream it, you can do it. A/B Testing Edge Computing Load Testing Quantum Computing
+Kubernetes Difficult roads often lead to beautiful destinations. Distributed Systems DevOps Kafka Success is how high you bounce when you hit bottom. Blockchain Server Response JWT Simplicity is the ultimate sophistication. Version Control Monitoring
